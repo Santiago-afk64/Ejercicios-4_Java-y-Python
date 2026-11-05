@@ -5,7 +5,7 @@ public class Clasificacion {
  
     static Scanner sc = new Scanner(System.in).useLocale(Locale.US);
  
-    static void Clasificacion() {
+    static void clasificacion() {
         System.out.print("Ingrese el promedio del estudiante (0-10): ");
         double promedio = sc.nextDouble();
         System.out.print("Ingrese el porcentaje de asistencia (0-100): ");
@@ -27,6 +27,6 @@ public class Clasificacion {
     }
  
     public static void main(String[] args) {
-        Clasificacion();
+        clasificacion();
     }
 }
