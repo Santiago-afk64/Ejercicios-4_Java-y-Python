@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class S2 {
+public class AreaHipotenusaTriangulo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in).useLocale(Locale.US);
         System.out.print("Cateto 1: ");
