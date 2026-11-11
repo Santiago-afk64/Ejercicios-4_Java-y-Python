@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class S4 {
+public class PolaresCartesianas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in).useLocale(Locale.US);
         System.out.print("Radio: ");
