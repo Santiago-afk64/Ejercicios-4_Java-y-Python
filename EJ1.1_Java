@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class S1 {
+public class ValorAnualidad {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in).useLocale(Locale.US);
         System.out.print("Depósito mensual: ");
