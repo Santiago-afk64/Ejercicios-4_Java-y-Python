@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class S3 {
+public class CostoEnvuiVolumétrico {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in).useLocale(Locale.US);
         System.out.print("Peso real (kg): ");
