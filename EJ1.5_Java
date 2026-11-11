@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class S5 {
+public class CuotaInteresSimple {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in).useLocale(Locale.US);
         System.out.print("Capital: ");
